@@ -21,7 +21,7 @@
 
 <script>
 <c:choose>
-	<c:when test="${PASS_CORRECT }">
+	<c:when test="${ID_CORRECT }">
 		alert("패스워드 검증완료");
 		location.href="<c:url value='${moveUrl}' />";
 	</c:when>

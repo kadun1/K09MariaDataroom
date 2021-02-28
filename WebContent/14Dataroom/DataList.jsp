@@ -116,14 +116,14 @@
 					<button type="button" class="btn btn-link">Link</button> -->
 				</div>
 			</div>
-			<div class="row mt-3">
+			
 				<div class="col">
 					<!-- 페이지번호 부분 -->
 					<ul class='pagination justify-content-center'>
 						${map.pagingImg }
 					</ul>
 				</div>								
-			</div>
+		
 		</div>
 	</div>
 	<div class="row border border-dark border-bottom-0 border-right-0 border-left-0"></div>
